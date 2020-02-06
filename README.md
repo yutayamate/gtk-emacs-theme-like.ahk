@@ -1,5 +1,5 @@
 # gtk-emacs-theme-like.ahk 
-This tiny script allows you to use the gtk emacs key theme like bindings on Windows, which is written in AutoHotkey (AHK) language. This script forked from usi3's emacs.ahk.
+This tiny script allows you to use the gtk-emacs-key-theme like bindings on Windows, which is written in AutoHotkey (AHK) language. This script forked from usi3's emacs.ahk.
 
 ## Supported keybindings
 <table>
@@ -102,6 +102,10 @@ This tiny script allows you to use the gtk emacs key theme like bindings on Wind
 <tr>
 <td>Ctrl+R</td>
 <td>find</td>
+</tr>
+<tr>
+<td>Ctrl+\</td>
+<td>select all</td>
 </tr>
 </table>
 
