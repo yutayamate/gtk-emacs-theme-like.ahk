@@ -49,20 +49,19 @@ This tiny script allows you to use the gtk emacs key theme like bindings on Wind
 </tr>
 <tr>
 <td>Ctrl+A</td>
-<td></td>
+<td>move cursor beginning of current line</td>
 </tr>
 <tr>
 <td>Shift+Ctrl+A</td>
-<td></td>
+<td>move cursor beginning of current line selecting chars</td>
 </tr>
 <tr>
-<tr>
 <td>Ctrl+E</td>
-<td></td>
+<td>move cursor end of current line</td>
 </tr>
 <tr>
 <td>Shift+Ctrl+E</td>
-<td></td>
+<td>move cursor end of current line selecting chars</td>
 </tr>
 <tr>
 <td>Alt+B</td>
@@ -82,27 +81,27 @@ This tiny script allows you to use the gtk emacs key theme like bindings on Wind
 </tr>
 <tr>
 <td>Ctrl+W</td>
-<td></td>
+<td>cut</td>
 </tr>
 <tr>
 <td>Ctrl+Y</td>
-<td></td>
+<td>paste</td>
 </tr>
 <tr>
 <td>Ctrl+K</td>
-<td></td>
+<td>delete chars from cursor to end of line</td>
 </tr>
 <tr>
 <td>Ctrl+U</td>
-<td></td>
+<td>delete chars from cursor to beginning of line</td>
 </tr>
 <tr>
 <td>Ctrl+M</td>
-<td></td>
+<td>new line(enter)</td>
 </tr>
 <tr>
 <td>Ctrl+R</td>
-<td></td>
+<td>find</td>
 </tr>
 </table>
 
