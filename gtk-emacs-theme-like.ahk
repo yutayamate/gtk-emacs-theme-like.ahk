@@ -12,8 +12,8 @@ SetKeyDelay 0
 ; (Please comment out applications you don't use)
 is_target()
 {
-  ;; IfWinActive,ahk_class ConsoleWindowClass ; Cygwin
-  ;;   Return 1 
+;  IfWinActive,ahk_class ConsoleWindowClass ; Cygwin
+;    Return 1 
   IfWinActive,ahk_class MEADOW ; Meadow
     Return 1 
   IfWinActive,ahk_class cygwin/x X rl-xterm-XTerm-0
